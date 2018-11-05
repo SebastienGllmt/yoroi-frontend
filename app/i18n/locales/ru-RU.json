@@ -181,7 +181,7 @@
   "wallet.send.form.next": "Далее",
   "wallet.send.form.receiver.hint": "Адрес кошелька",
   "wallet.send.form.receiver.label": "Получатель",
-  "wallet.send.form.sendingIsDisabled": "Не удается отправить новую транзакцию пока существующая еще не завершена.",
+  "wallet.send.form.sendingIsDisabled": "Невозможно совершить новую транзакцию пока текущая не завершена.",
   "wallet.send.form.title.hint": "Например: Деньги для Фрэнка",
   "wallet.send.form.title.label": "Название",
   "wallet.send.form.transactionFeeError": "Недостаточно Ada для оплаты комиссии. Попробуйте отправить меньшую сумму.",
